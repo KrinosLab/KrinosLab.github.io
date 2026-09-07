@@ -96,7 +96,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.06.22.660956
-  title: New niches for larger phytoplankton in a warmer, more resource-limited ocean
+  title: Heat stress drives increases in phytoplankton cell size in future oligotrophic
+    oceans
   authors:
   - Suzana G. Leles
   - Lara Breithaupt
